@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-ory-am",
+  "version": "1.0.0",
+  "description": "The ESLint configuration used by Ory",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ory-am/eslint-config-ory-am.git"
+  },
+  "license": "Apache-2.0"
+}
