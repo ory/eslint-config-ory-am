@@ -7,5 +7,8 @@
     "type": "git",
     "url": "https://github.com/ory-am/eslint-config-ory-am.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "peerDependencies": {
+    "eslint": ">= 2.5.0 < 3"
+  }
 }
