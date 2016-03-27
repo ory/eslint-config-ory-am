@@ -119,7 +119,7 @@ module.exports = {
     'spaced-comment': 2,
     'wrap-regex': 2,
     'arrow-body-style': 2,
-    'arrow-parens': [2, 'always'],
+    'arrow-parens': [2, 'as-needed'],
     'arrow-spacing': 2,
     'constructor-super': 2,
     'generator-star-spacing': 2,
