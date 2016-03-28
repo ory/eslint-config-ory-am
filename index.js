@@ -87,6 +87,7 @@ module.exports = {
     'eol-last': 2,
     'func-style': 2,
     'indent': [2, 2, { 'SwitchCase': 1 }],
+    'jsx-quotes': [2, 'prefer-double'],
     'key-spacing': 2,
     'keyword-spacing': 2,
     'new-cap': 2,
