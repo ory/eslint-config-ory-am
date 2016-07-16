@@ -45,3 +45,9 @@ Then add a watch script to your `package.json`. In the following example, chokid
     "watch:js": "chokidar \"+(src|test)/**/*.js\" --initial"
   }
 }
+```
+
+## Usage with WebStorm
+
+* Import [webstorm-code-style.xml](webstorm-code-style.xml) in preferences `Editor › Code Style › JavaScript`.
+* Deactivate `Unterminated statement` inspection in preferences `Editor › Inspections`
